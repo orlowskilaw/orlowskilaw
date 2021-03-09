@@ -1,3 +1,7 @@
+# General
+*.swp
+
+# Ruby Files
 *.gem
 *.rbc
 /.config
